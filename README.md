@@ -1,4 +1,4 @@
-Dedykowane oprogramowanie dla indywidualnych klientów - po więcej informacji proszę o kontakt mailowy.
+#Dedykowane oprogramowanie dla indywidualnych klientów - po więcej informacji proszę o kontakt mailowy.
 
 Księgi Wieczyste - GUS
 Archiwa Sądowe - Operaty Szacunkowe
