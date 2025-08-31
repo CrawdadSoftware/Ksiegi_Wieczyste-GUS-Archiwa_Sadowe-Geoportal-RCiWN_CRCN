@@ -1,4 +1,3 @@
-# Ksi-gi_Wieczyste-GUS-Archiwa_S-dowe-Geoportal-RCiWN_CRCN
 Dedykowane oprogramowanie dla indywidualnych klientów - po więcej informacji proszę o kontakt mailowy.
 
 Księgi Wieczyste - GUS
